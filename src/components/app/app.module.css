@@ -1,0 +1,36 @@
+.container {
+  /* background: #f6f5f0; */
+  background: #fff8ef;
+}
+
+.main {
+  margin-top: 90px;
+  min-height: calc(100vh - 90px);
+}
+
+.headerBlock {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  background: #fff;
+  z-index: 10;
+}
+
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.footerBlock {
+  background-color: #ffe7c6;
+}
+
+@media screen and (max-width: 1024px) {
+  .main {
+    margin-top: 80px;
+    min-height: calc(100vh - 80px);
+  }
+}

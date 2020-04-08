@@ -1,0 +1,17 @@
+.container {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
+
+.image {
+  border-radius: 100%;
+  background: #fff;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.39);
+}
+
+.text {
+  margin-left: 10px;
+  font-weight: 700;
+  color: #c95555;
+}

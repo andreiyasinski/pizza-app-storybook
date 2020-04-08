@@ -1,0 +1,53 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 34px 0;
+}
+
+.logo {
+  height: 70px;
+}
+
+.footerLeft {
+  width: 25%;
+}
+
+.copyright {
+  color: #1E1C22;
+  font-size: 12px;
+  line-height: 1.4;
+  margin-bottom: 5px;
+}
+
+.link {
+  font-size: 12px;
+  line-height: 1.4;
+  color: #817E71;
+}
+
+@media (min-width: 1024px) {
+  .link:hover {
+    text-decoration: none;
+  } 
+}
+/* 769 - 960 px */
+@media screen and (max-width: 960px) {
+	.footerLeft {
+    width: 50%;
+  }
+}
+
+/* 481 - 768 px */
+@media screen and (max-width: 768px) {
+  .container {
+    flex-direction: column-reverse;
+    justify-content: center;
+  }
+
+  .footerLeft {
+    width: 80%;
+    text-align: center;
+    margin-top: 30px;
+  }
+}

@@ -1,0 +1,2948 @@
+{
+  "ru": [
+    {
+      "id": 1,
+      "name": "Аррива",
+      "size": {
+        "small": {
+          "price": "8.90",
+          "name": "Маленькая",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "14.90",
+          "name": "Средняя",
+          "diameter": "30",
+          "weight": "630"
+        },
+        "big": {
+          "price": "19.90",
+          "name": "Большая",
+          "diameter": "35",
+          "weight": "950"
+        }
+      },
+      "dough": {
+        "type1": "Традиционное",
+        "type2": "Тонкое"
+      },
+      "extra": [7, 3, 13],
+      "type": [4],
+      "image": "/pizza-app/images/image-1.jpg",
+      "ingredients": [
+        {
+          "id": 23,
+          "removable": true
+        },
+        {
+          "id": 10,
+          "removable": true
+        },
+        {
+          "id": 5,
+          "removable": true
+        },
+        {
+          "id": 12,
+          "removable": true
+        },
+        {
+          "id": 17,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": true
+        },
+        {
+          "id": 28,
+          "removable": false
+        },
+        {
+          "id": 14,
+          "removable": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Пепперони Фреш с перцем",
+      "size": {
+        "small": {
+          "price": "6.90",
+          "name": "Маленькая",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "11.90",
+          "name": "Средняя",
+          "diameter": "30",
+          "weight": "630"
+        },
+        "big": {
+          "price": "16.40",
+          "name": "Большая",
+          "diameter": "35",
+          "weight": "950"
+        }
+      },
+      "dough": {
+        "type1": "Традиционное",
+        "type2": "Тонкое"
+      },
+      "extra": [13, 18, 25],
+      "type": [2],
+      "image": "/pizza-app/images/image-2.jpeg",
+      "ingredients": [
+        {
+          "id": 12,
+          "removable": true
+        },
+        {
+          "id": 2,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 4,
+          "removable": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Пепперони Фреш с томатами",
+      "size": {
+        "small": {
+          "price": "6.90",
+          "name": "Маленькая",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "11.90",
+          "name": "Средняя",
+          "diameter": "30",
+          "weight": "630"
+        },
+        "big": {
+          "price": "16.40",
+          "name": "Большая",
+          "diameter": "35",
+          "weight": "980"
+        }
+      },
+      "dough": {
+        "type1": "Традиционное",
+        "type2": "Тонкое"
+      },
+      "extra": [13, 7, 18],
+      "type": [2],
+      "image": "/pizza-app/images/image-3.jpeg",
+      "ingredients": [
+        {
+          "id": 5,
+          "removable": true
+        },
+        {
+          "id": 2,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 4,
+          "removable": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Ветчина и грибы",
+      "size": {
+        "small": {
+          "price": "6.90",
+          "name": "Маленькая",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "12.90",
+          "name": "Средняя",
+          "diameter": "30",
+          "weight": "680"
+        },
+        "big": {
+          "price": "17.40",
+          "name": "Большая",
+          "diameter": "35",
+          "weight": "980"
+        }
+      },
+      "dough": {
+        "type1": "Традиционное",
+        "type2": "Тонкое"
+      },
+      "extra": [25, 10, 7],
+      "type": [2],
+      "image": "/pizza-app/images/image-4.jpg",
+      "ingredients": [
+        {
+          "id": 4,
+          "removable": false
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 6,
+          "removable": true
+        },
+        {
+          "id": 7,
+          "removable": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Ветчина и сыр",
+      "size": {
+        "small": {
+          "price": "6.90",
+          "name": "Маленькая",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "12.90",
+          "name": "Средняя",
+          "diameter": "30",
+          "weight": "690"
+        },
+        "big": {
+          "price": "17.40",
+          "name": "Маленькая",
+          "diameter": "25",
+          "weight": "1020"
+        }
+      },
+      "dough": {
+        "type1": "Традиционное",
+        "type2": "Тонкое"
+      },
+      "extra": [25, 10, 7],
+      "type": [2],
+      "image": "/pizza-app/images/image-5.jpg",
+      "ingredients": [
+        {
+          "id": 8,
+          "removable": false
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 6,
+          "removable": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Гавайская",
+      "size": {
+        "small": {
+          "price": "8.90",
+          "name": "Маленькая",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "14.90",
+          "name": "Средняя",
+          "diameter": "30",
+          "weight": "650"
+        },
+        "big": {
+          "price": "19.40",
+          "name": "Большая",
+          "diameter": "35",
+          "weight": "990"
+        }
+      },
+      "dough": {
+        "type1": "Традиционное",
+        "type2": "Тонкое"
+      },
+      "extra": [3, 10, 6],
+      "type": [4],
+      "image": "/pizza-app/images/image-6.jpg",
+      "ingredients": [
+        {
+          "id": 9,
+          "removable": true
+        },
+        {
+          "id": 4,
+          "removable": false
+        },
+        {
+          "id": 10,
+          "removable": true
+        },
+        {
+          "id": 13,
+          "removable": false
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Кисло-сладкий цыпленок",
+      "size": {
+        "small": {
+          "price": "8.90",
+          "name": "Маленькая",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "12.90",
+          "name": "Средняя",
+          "diameter": "30",
+          "weight": "680"
+        },
+        "big": {
+          "price": "17.40",
+          "name": "Большая",
+          "diameter": "35",
+          "weight": "960"
+        }
+      },
+      "dough": {
+        "type1": "Традиционное",
+        "type2": "Тонкое"
+      },
+      "extra": [3, 12, 13],
+      "type": [4],
+      "image": "/pizza-app/images/image-7.jpg",
+      "ingredients": [
+        {
+          "id": 11,
+          "removable": false
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 10,
+          "removable": true
+        },
+        {
+          "id": 4,
+          "removable": false
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Чизбургер пицца",
+      "size": {
+        "small": {
+          "price": "10.90",
+          "name": "Маленькая",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "16.90",
+          "name": "Средняя",
+          "diameter": "30",
+          "weight": "650"
+        },
+        "big": {
+          "price": "21.90",
+          "name": "Большая",
+          "diameter": "35",
+          "weight": "990"
+        }
+      },
+      "dough": {
+        "type1": "Традиционное",
+        "type2": "Тонкое"
+      },
+      "extra": [3, 13, 18],
+      "type": [2],
+      "image": "/pizza-app/images/image-8.jpg",
+      "ingredients": [
+        {
+          "id": 14,
+          "removable": false
+        },
+        {
+          "id": 15,
+          "removable": false
+        },
+        {
+          "id": 5,
+          "removable": true
+        },
+        {
+          "id": 16,
+          "removable": true
+        },
+        {
+          "id": 17,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Крэйзи пепперони",
+      "size": {
+        "small": {
+          "price": "8.90",
+          "name": "Маленькая",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "14.90",
+          "name": "Средняя",
+          "diameter": "30",
+          "weight": "640"
+        },
+        "big": {
+          "price": "19.90",
+          "name": "Большая",
+          "diameter": "35",
+          "weight": "980"
+        }
+      },
+      "dough": {
+        "type1": "Традиционное",
+        "type2": "Тонкое"
+      },
+      "extra": [3, 13, 7],
+      "type": [2, 4],
+      "image": "/pizza-app/images/image-9.jpg",
+      "ingredients": [
+        {
+          "id": 19,
+          "removable": true
+        },
+        {
+          "id": 11,
+          "removable": false
+        },
+        {
+          "id": 10,
+          "removable": true
+        },
+        {
+          "id": 16,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 4,
+          "removable": false
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Креветки по-азиатски",
+      "size": {
+        "small": {
+          "price": "10.90",
+          "name": "Маленькая",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "16.90",
+          "name": "Средняя",
+          "diameter": "30",
+          "weight": "670"
+        },
+        "big": {
+          "price": "21.90",
+          "name": "Маленькая",
+          "diameter": "40",
+          "weight": "960"
+        }
+      },
+      "dough": {
+        "type1": "Традиционное",
+        "type2": "Тонкое"
+      },
+      "extra": [3, 13, 12],
+      "type": [1, 5],
+      "image": "/pizza-app/images/image-10.jpg",
+      "ingredients": [
+        {
+          "id": 20,
+          "removable": true
+        },
+        {
+          "id": 7,
+          "removable": true
+        },
+        {
+          "id": 21,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 11,
+          "removable": false
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Двойная пепперони",
+      "size": {
+        "small": {
+          "price": "12.90",
+          "name": "Маленькая",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "18.90",
+          "name": "Средняя",
+          "diameter": "30",
+          "weight": "700"
+        },
+        "big": {
+          "price": "22.90",
+          "name": "Большая",
+          "diameter": "35",
+          "weight": "1100"
+        }
+      },
+      "dough": {
+        "type1": "Традиционное",
+        "type2": "Тонкое"
+      },
+      "extra": [13, 22, 7],
+      "type": [2],
+      "image": "/pizza-app/images/image-11.jpg",
+      "ingredients": [
+        {
+          "id": 4,
+          "removable": false
+        },
+        {
+          "id": 19,
+          "removable": true
+        },
+        {
+          "id": 21,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Супермясная",
+      "size": {
+        "small": {
+          "price": "14.90",
+          "name": "Маленькая",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "20.90",
+          "name": "Средняя",
+          "diameter": "30",
+          "weight": "680"
+        },
+        "big": {
+          "price": "24.90",
+          "name": "Большая",
+          "diameter": "35",
+          "weight": "960"
+        }
+      },
+      "dough": {
+        "type1": "Традиционное",
+        "type2": "Тонкое"
+      },
+      "extra": [3, 10, 6],
+      "type": [2, 3],
+      "image": "/pizza-app/images/image-12.jpg",
+      "ingredients": [
+        {
+          "id": 23,
+          "removable": true
+        },
+        {
+          "id": 24,
+          "removable": true
+        },
+        {
+          "id": 4,
+          "removable": false
+        },
+        {
+          "id": 10,
+          "removable": true
+        },
+        {
+          "id": 19,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 18,
+          "removable": true
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "От Шефа",
+      "size": {
+        "small": {
+          "price": "14.90",
+          "name": "Маленькая",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "20.90",
+          "name": "Средняя",
+          "diameter": "30",
+          "weight": "680"
+        },
+        "big": {
+          "price": "24.90",
+          "name": "Большая",
+          "diameter": "35",
+          "weight": "960"
+        }
+      },
+      "dough": {
+        "type1": "Традиционное",
+        "type2": "Тонкое"
+      },
+      "extra": [13, 7, 18],
+      "type": [2, 4],
+      "image": "/pizza-app/images/image-13.jpg",
+      "ingredients": [
+        {
+          "id": 24,
+          "removable": true
+        },
+        {
+          "id": 4,
+          "removable": false
+        },
+        {
+          "id": 10,
+          "removable": true
+        },
+        {
+          "id": 26,
+          "removable": true
+        },
+        {
+          "id": 17,
+          "removable": true
+        },
+        {
+          "id": 12,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 6,
+          "removable": true
+        },
+        {
+          "id": 7,
+          "removable": true
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Дон Бекон",
+      "size": {
+        "small": {
+          "price": "12.90",
+          "name": "Маленькая",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "18.90",
+          "name": "Средняя",
+          "diameter": "30",
+          "weight": "690"
+        },
+        "big": {
+          "price": "22.90",
+          "name": "Большая",
+          "diameter": "35",
+          "weight": "1020"
+        }
+      },
+      "dough": {
+        "type1": "Традиционное",
+        "type2": "Тонкое"
+      },
+      "extra": [3, 13, 18],
+      "type": [2],
+      "image": "/pizza-app/images/image-14.jpg",
+      "ingredients": [
+        {
+          "id": 4,
+          "removable": false
+        },
+        {
+          "id": 10,
+          "removable": true
+        },
+        {
+          "id": 26,
+          "removable": true
+        },
+        {
+          "id": 19,
+          "removable": true
+        },
+        {
+          "id": 17,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 18,
+          "removable": true
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Мясная",
+      "size": {
+        "small": {
+          "price": "12.90",
+          "name": "Маленькая",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "18.90",
+          "name": "Средняя",
+          "diameter": "30",
+          "weight": "690"
+        },
+        "big": {
+          "price": "22.90",
+          "name": "Большая",
+          "diameter": "35",
+          "weight": "990"
+        }
+      },
+      "dough": {
+        "type1": "Традиционное",
+        "type2": "Тонкое"
+      },
+      "extra": [13, 7, 18],
+      "type": [2, 3],
+      "image": "/pizza-app/images/image-15.jpg",
+      "ingredients": [
+        {
+          "id": 23,
+          "removable": true
+        },
+        {
+          "id": 4,
+          "removable": false
+        },
+        {
+          "id": 10,
+          "removable": true
+        },
+        {
+          "id": 19,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 6,
+          "removable": true
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Цыпленок барбекю",
+      "size": {
+        "small": {
+          "price": "12.90",
+          "name": "Маленькая",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "18.90",
+          "name": "Средняя",
+          "diameter": "30",
+          "weight": "640"
+        },
+        "big": {
+          "price": "22.90",
+          "name": "Большая",
+          "diameter": "35",
+          "weight": "960"
+        }
+      },
+      "dough": {
+        "type1": "Традиционное",
+        "type2": "Тонкое"
+      },
+      "extra": [3, 13, 7],
+      "type": [4],
+      "image": "/pizza-app/images/image-16.jpg",
+      "ingredients": [
+        {
+          "id": 27,
+          "removable": false
+        },
+        {
+          "id": 4,
+          "removable": false
+        },
+        {
+          "id": 10,
+          "removable": true
+        },
+        {
+          "id": 17,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 18,
+          "removable": true
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Сырный цыпленок",
+      "size": {
+        "small": {
+          "price": "12.90",
+          "name": "Маленькая",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "18.90",
+          "name": "Средняя",
+          "diameter": "30",
+          "weight": "670"
+        },
+        "big": {
+          "price": "22.90",
+          "name": "Большая",
+          "diameter": "35",
+          "weight": "950"
+        }
+      },
+      "dough": {
+        "type1": "Традиционное",
+        "type2": "Тонкое"
+      },
+      "extra": [25, 10, 7],
+      "type": [4],
+      "image": "/pizza-app/images/image-17.jpg",
+      "ingredients": [
+        {
+          "id": 33,
+          "removable": false
+        },
+        {
+          "id": 10,
+          "removable": true
+        },
+        {
+          "id": 4,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Цыпленок ранч",
+      "size": {
+        "small": {
+          "price": "12.90",
+          "name": "Маленькая",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "18.90",
+          "name": "Средняя",
+          "diameter": "30",
+          "weight": "630"
+        },
+        "big": {
+          "price": "22.90",
+          "name": "Большая",
+          "diameter": "35",
+          "weight": "970"
+        }
+      },
+      "dough": {
+        "type1": "Традиционное",
+        "type2": "Тонкое"
+      },
+      "extra": [3, 13, 7],
+      "type": [4],
+      "image": "/pizza-app/images/image-18.jpg",
+      "ingredients": [
+        {
+          "id": 10,
+          "removable": true
+        },
+        {
+          "id": 5,
+          "removable": true
+        },
+        {
+          "id": 1,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 28,
+          "removable": false
+        },
+        {
+          "id": 6,
+          "removable": true
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Итальянская",
+      "size": {
+        "small": {
+          "price": "8.90",
+          "name": "Маленькая",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "14.90",
+          "name": "Средняя",
+          "diameter": "30",
+          "weight": "690"
+        },
+        "big": {
+          "price": "19.90",
+          "name": "Большая",
+          "diameter": "35",
+          "weight": "960"
+        }
+      },
+      "dough": {
+        "type1": "Традиционное",
+        "type2": "Тонкое"
+      },
+      "extra": [13, 7, 18],
+      "type": [2],
+      "image": "/pizza-app/images/image-19.jpg",
+      "ingredients": [
+        {
+          "id": 29,
+          "removable": true
+        },
+        {
+          "id": 4,
+          "removable": false
+        },
+        {
+          "id": 19,
+          "removable": true
+        },
+        {
+          "id": 26,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 7,
+          "removable": true
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Мексиканская",
+      "size": {
+        "small": {
+          "price": "12.90",
+          "name": "Маленькая",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "18.90",
+          "name": "Средняя",
+          "diameter": "30",
+          "weight": "650"
+        },
+        "big": {
+          "price": "22.90",
+          "name": "Большая",
+          "diameter": "35",
+          "weight": "980"
+        }
+      },
+      "dough": {
+        "type1": "Традиционное",
+        "type2": "Тонкое"
+      },
+      "extra": [3, 13, 7],
+      "type": [3, 4],
+      "image": "/pizza-app/images/image-20.jpg",
+      "ingredients": [
+        {
+          "id": 13,
+          "removable": true
+        },
+        {
+          "id": 30,
+          "removable": false
+        },
+        {
+          "id": 4,
+          "removable": false
+        },
+        {
+          "id": 10,
+          "removable": true
+        },
+        {
+          "id": 5,
+          "removable": true
+        },
+        {
+          "id": 12,
+          "removable": true
+        },
+        {
+          "id": 17,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Овощи и грибы",
+      "size": {
+        "small": {
+          "price": "8.90",
+          "name": "Маленькая",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "14.90",
+          "name": "Средняя",
+          "diameter": "30",
+          "weight": "620"
+        },
+        "big": {
+          "price": "19.90",
+          "name": "Большая",
+          "diameter": "35",
+          "weight": "910"
+        }
+      },
+      "dough": {
+        "type1": "Традиционное",
+        "type2": "Тонкое"
+      },
+      "extra": [3, 13, 7],
+      "type": [1],
+      "image": "/pizza-app/images/image-21.jpg",
+      "ingredients": [
+        {
+          "id": 29,
+          "removable": true
+        },
+        {
+          "id": 4,
+          "removable": false
+        },
+        {
+          "id": 5,
+          "removable": true
+        },
+        {
+          "id": 31,
+          "removable": true
+        },
+        {
+          "id": 26,
+          "removable": true
+        },
+        {
+          "id": 17,
+          "removable": true
+        },
+        {
+          "id": 12,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 7,
+          "removable": true
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Пепперони",
+      "size": {
+        "small": {
+          "price": "8.90",
+          "name": "Маленькая",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "14.90",
+          "name": "Средняя",
+          "diameter": "30",
+          "weight": "680"
+        },
+        "big": {
+          "price": "19.90",
+          "name": "Большая",
+          "diameter": "35",
+          "weight": "950"
+        }
+      },
+      "dough": {
+        "type1": "Традиционное",
+        "type2": "Тонкое"
+      },
+      "extra": [13, 7, 18],
+      "type": [2],
+      "image": "/pizza-app/images/image-22.jpg",
+      "ingredients": [
+        {
+          "id": 4,
+          "removable": false
+        },
+        {
+          "id": 19,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Четыре сезона",
+      "size": {
+        "small": {
+          "price": "12.90",
+          "name": "Маленькая",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "18.90",
+          "name": "Средняя",
+          "diameter": "30",
+          "weight": "680"
+        },
+        "big": {
+          "price": "22.90",
+          "name": "Большая",
+          "diameter": "35",
+          "weight": "990"
+        }
+      },
+      "dough": {
+        "type1": "Традиционное",
+        "type2": "Тонкое"
+      },
+      "extra": [3, 13, 18],
+      "type": [2],
+      "image": "/pizza-app/images/image-23.jpg",
+      "ingredients": [
+        {
+          "id": 29,
+          "removable": true
+        },
+        {
+          "id": 4,
+          "removable": false
+        },
+        {
+          "id": 5,
+          "removable": true
+        },
+        {
+          "id": 19,
+          "removable": true
+        },
+        {
+          "id": 31,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 6,
+          "removable": true
+        },
+        {
+          "id": 7,
+          "removable": true
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Четыре сыра",
+      "size": {
+        "small": {
+          "price": "12.90",
+          "name": "Маленькая",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "18.90",
+          "name": "Средняя",
+          "diameter": "30",
+          "weight": "680"
+        },
+        "big": {
+          "price": "22.90",
+          "name": "Большая",
+          "diameter": "35",
+          "weight": "960"
+        }
+      },
+      "dough": {
+        "type1": "Традиционное",
+        "type2": "Тонкое"
+      },
+      "extra": [3, 10, 6],
+      "type": [1],
+      "image": "/pizza-app/images/image-24.jpg",
+      "ingredients": [
+        {
+          "id": 8,
+          "removable": false
+        },
+        {
+          "id": 25,
+          "removable": true
+        },
+        {
+          "id": 22,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Маргарита",
+      "size": {
+        "small": {
+          "price": "6.90",
+          "name": "Маленькая",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "12.90",
+          "name": "Средняя",
+          "diameter": "30",
+          "weight": "610"
+        },
+        "big": {
+          "price": "17.90",
+          "name": "Большая",
+          "diameter": "35",
+          "weight": "890"
+        }
+      },
+      "dough": {
+        "type1": "Традиционное",
+        "type2": "Тонкое"
+      },
+      "extra": [13, 7, 18],
+      "type": [1],
+      "image": "/pizza-app/images/image-25.jpg",
+      "ingredients": [
+        {
+          "id": 29,
+          "removable": true
+        },
+        {
+          "id": 4,
+          "removable": false
+        },
+        {
+          "id": 5,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Испанские колбаски чоризо",
+      "size": {
+        "small": {
+          "price": "6.90",
+          "name": "Маленькая",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "12.90",
+          "name": "Средняя",
+          "diameter": "30",
+          "weight": "620"
+        },
+        "big": {
+          "price": "17.90",
+          "name": "Большая",
+          "diameter": "35",
+          "weight": "960"
+        }
+      },
+      "dough": {
+        "type1": "Традиционное",
+        "type2": "Тонкое"
+      },
+      "extra": [3, 13, 7],
+      "type": [2],
+      "image": "/pizza-app/images/image-26.jpeg",
+      "ingredients": [
+        {
+          "id": 5,
+          "removable": true
+        },
+        {
+          "id": 23,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 32,
+          "removable": false
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Сырная",
+      "size": {
+        "small": {
+          "price": "6.90",
+          "name": "Маленькая",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "12.90",
+          "name": "Средняя",
+          "diameter": "30",
+          "weight": "610"
+        },
+        "big": {
+          "price": "16.90",
+          "name": "Большая",
+          "diameter": "35",
+          "weight": "910"
+        }
+      },
+      "dough": {
+        "type1": "Традиционное",
+        "type2": "Тонкое"
+      },
+      "extra": [13, 7, 18],
+      "type": [1],
+      "image": "/pizza-app/images/image-27.jpg",
+      "ingredients": [
+        {
+          "id": 4,
+          "removable": false
+        },
+        {
+          "id": 3,
+          "removable": false
+        }
+      ]
+    }
+  ],
+  "en": [
+    {
+      "id": 1,
+      "name": "Ariva",
+      "size": {
+        "small": {
+          "price": "8.90",
+          "name": "Small",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "14.90",
+          "name": "Medium",
+          "diameter": "30",
+          "weight": "630"
+        },
+        "big": {
+          "price": "19.90",
+          "name": "Big",
+          "diameter": "35",
+          "weight": "950"
+        }
+      },
+      "dough": {
+        "type1": "Traditional",
+        "type2": "Thin"
+      },
+      "extra": [7, 3, 13],
+      "type": [4],
+      "image": "/pizza-app/images/image-1.jpg",
+      "ingredients": [
+        {
+          "id": 23,
+          "removable": true
+        },
+        {
+          "id": 10,
+          "removable": true
+        },
+        {
+          "id": 5,
+          "removable": true
+        },
+        {
+          "id": 12,
+          "removable": true
+        },
+        {
+          "id": 17,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": true
+        },
+        {
+          "id": 28,
+          "removable": false
+        },
+        {
+          "id": 14,
+          "removable": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Pepperoni with pepper",
+      "size": {
+        "small": {
+          "price": "6.90",
+          "name": "Small",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "11.90",
+          "name": "Medium",
+          "diameter": "30",
+          "weight": "630"
+        },
+        "big": {
+          "price": "16.40",
+          "name": "Big",
+          "diameter": "35",
+          "weight": "950"
+        }
+      },
+      "dough": {
+        "type1": "Traditional",
+        "type2": "Thin"
+      },
+      "extra": [13, 18, 25],
+      "type": [2],
+      "image": "/pizza-app/images/image-2.jpeg",
+      "ingredients": [
+        {
+          "id": 12,
+          "removable": true
+        },
+        {
+          "id": 2,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 4,
+          "removable": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Pepperoni with pomatoes",
+      "size": {
+        "small": {
+          "price": "6.90",
+          "name": "Small",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "11.90",
+          "name": "Medium",
+          "diameter": "30",
+          "weight": "630"
+        },
+        "big": {
+          "price": "16.40",
+          "name": "Big",
+          "diameter": "35",
+          "weight": "980"
+        }
+      },
+      "dough": {
+        "type1": "Traditional",
+        "type2": "Thin"
+      },
+      "extra": [13, 7, 18],
+      "type": [2],
+      "image": "/pizza-app/images/image-3.jpeg",
+      "ingredients": [
+        {
+          "id": 5,
+          "removable": true
+        },
+        {
+          "id": 2,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 4,
+          "removable": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Ham and Mushrooms",
+      "size": {
+        "small": {
+          "price": "6.90",
+          "name": "Small",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "12.90",
+          "name": "Medium",
+          "diameter": "30",
+          "weight": "680"
+        },
+        "big": {
+          "price": "17.40",
+          "name": "Big",
+          "diameter": "35",
+          "weight": "980"
+        }
+      },
+      "dough": {
+        "type1": "Traditional",
+        "type2": "Thin"
+      },
+      "extra": [25, 10, 7],
+      "type": [2],
+      "image": "/pizza-app/images/image-4.jpg",
+      "ingredients": [
+        {
+          "id": 4,
+          "removable": false
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 6,
+          "removable": true
+        },
+        {
+          "id": 7,
+          "removable": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Ham and cheese",
+      "size": {
+        "small": {
+          "price": "6.90",
+          "name": "Small",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "12.90",
+          "name": "Medium",
+          "diameter": "30",
+          "weight": "690"
+        },
+        "big": {
+          "price": "17.40",
+          "name": "Small",
+          "diameter": "25",
+          "weight": "1020"
+        }
+      },
+      "dough": {
+        "type1": "Traditional",
+        "type2": "Thin"
+      },
+      "extra": [25, 10, 7],
+      "type": [2],
+      "image": "/pizza-app/images/image-5.jpg",
+      "ingredients": [
+        {
+          "id": 8,
+          "removable": false
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 6,
+          "removable": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Hawaiian",
+      "size": {
+        "small": {
+          "price": "8.90",
+          "name": "Small",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "14.90",
+          "name": "Medium",
+          "diameter": "30",
+          "weight": "650"
+        },
+        "big": {
+          "price": "19.40",
+          "name": "Big",
+          "diameter": "35",
+          "weight": "990"
+        }
+      },
+      "dough": {
+        "type1": "Traditional",
+        "type2": "Thin"
+      },
+      "extra": [3, 10, 6],
+      "type": [4],
+      "image": "/pizza-app/images/image-6.jpg",
+      "ingredients": [
+        {
+          "id": 9,
+          "removable": true
+        },
+        {
+          "id": 4,
+          "removable": false
+        },
+        {
+          "id": 10,
+          "removable": true
+        },
+        {
+          "id": 13,
+          "removable": false
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Sweet and Sour Chicken",
+      "size": {
+        "small": {
+          "price": "8.90",
+          "name": "Small",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "12.90",
+          "name": "Medium",
+          "diameter": "30",
+          "weight": "680"
+        },
+        "big": {
+          "price": "17.40",
+          "name": "Big",
+          "diameter": "35",
+          "weight": "960"
+        }
+      },
+      "dough": {
+        "type1": "Traditional",
+        "type2": "Thin"
+      },
+      "extra": [3, 12, 13],
+      "type": [4],
+      "image": "/pizza-app/images/image-7.jpg",
+      "ingredients": [
+        {
+          "id": 11,
+          "removable": false
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 10,
+          "removable": true
+        },
+        {
+          "id": 4,
+          "removable": false
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Cheeseburger pizza",
+      "size": {
+        "small": {
+          "price": "10.90",
+          "name": "Small",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "16.90",
+          "name": "Medium",
+          "diameter": "30",
+          "weight": "650"
+        },
+        "big": {
+          "price": "21.90",
+          "name": "Big",
+          "diameter": "35",
+          "weight": "990"
+        }
+      },
+      "dough": {
+        "type1": "Traditional",
+        "type2": "Thin"
+      },
+      "extra": [3, 13, 18],
+      "type": [2],
+      "image": "/pizza-app/images/image-8.jpg",
+      "ingredients": [
+        {
+          "id": 14,
+          "removable": false
+        },
+        {
+          "id": 15,
+          "removable": false
+        },
+        {
+          "id": 5,
+          "removable": true
+        },
+        {
+          "id": 16,
+          "removable": true
+        },
+        {
+          "id": 17,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Crazy pepperoni",
+      "size": {
+        "small": {
+          "price": "8.90",
+          "name": "Small",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "14.90",
+          "name": "Medium",
+          "diameter": "30",
+          "weight": "640"
+        },
+        "big": {
+          "price": "19.90",
+          "name": "Big",
+          "diameter": "35",
+          "weight": "980"
+        }
+      },
+      "dough": {
+        "type1": "Traditional",
+        "type2": "Thin"
+      },
+      "extra": [3, 13, 7],
+      "type": [2, 4],
+      "image": "/pizza-app/images/image-9.jpg",
+      "ingredients": [
+        {
+          "id": 19,
+          "removable": true
+        },
+        {
+          "id": 11,
+          "removable": false
+        },
+        {
+          "id": 10,
+          "removable": true
+        },
+        {
+          "id": 16,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 4,
+          "removable": false
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Asian Shrimp",
+      "size": {
+        "small": {
+          "price": "10.90",
+          "name": "Small",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "16.90",
+          "name": "Medium",
+          "diameter": "30",
+          "weight": "670"
+        },
+        "big": {
+          "price": "21.90",
+          "name": "Small",
+          "diameter": "40",
+          "weight": "960"
+        }
+      },
+      "dough": {
+        "type1": "Traditional",
+        "type2": "Thin"
+      },
+      "extra": [3, 13, 12],
+      "type": [1, 5],
+      "image": "/pizza-app/images/image-10.jpg",
+      "ingredients": [
+        {
+          "id": 20,
+          "removable": true
+        },
+        {
+          "id": 7,
+          "removable": true
+        },
+        {
+          "id": 21,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 11,
+          "removable": false
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Double pepperoni",
+      "size": {
+        "small": {
+          "price": "12.90",
+          "name": "Small",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "18.90",
+          "name": "Medium",
+          "diameter": "30",
+          "weight": "700"
+        },
+        "big": {
+          "price": "22.90",
+          "name": "Big",
+          "diameter": "35",
+          "weight": "1100"
+        }
+      },
+      "dough": {
+        "type1": "Traditional",
+        "type2": "Thin"
+      },
+      "extra": [13, 22, 7],
+      "type": [2],
+      "image": "/pizza-app/images/image-11.jpg",
+      "ingredients": [
+        {
+          "id": 4,
+          "removable": false
+        },
+        {
+          "id": 19,
+          "removable": true
+        },
+        {
+          "id": 21,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Supermeat",
+      "size": {
+        "small": {
+          "price": "14.90",
+          "name": "Small",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "20.90",
+          "name": "Medium",
+          "diameter": "30",
+          "weight": "680"
+        },
+        "big": {
+          "price": "24.90",
+          "name": "Big",
+          "diameter": "35",
+          "weight": "960"
+        }
+      },
+      "dough": {
+        "type1": "Traditional",
+        "type2": "Thin"
+      },
+      "extra": [3, 10, 6],
+      "type": [2, 3],
+      "image": "/pizza-app/images/image-12.jpg",
+      "ingredients": [
+        {
+          "id": 23,
+          "removable": true
+        },
+        {
+          "id": 24,
+          "removable": true
+        },
+        {
+          "id": 4,
+          "removable": false
+        },
+        {
+          "id": 10,
+          "removable": true
+        },
+        {
+          "id": 19,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 18,
+          "removable": true
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "From Chef",
+      "size": {
+        "small": {
+          "price": "14.90",
+          "name": "Small",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "20.90",
+          "name": "Medium",
+          "diameter": "30",
+          "weight": "680"
+        },
+        "big": {
+          "price": "24.90",
+          "name": "Big",
+          "diameter": "35",
+          "weight": "960"
+        }
+      },
+      "dough": {
+        "type1": "Traditional",
+        "type2": "Thin"
+      },
+      "extra": [13, 7, 18],
+      "type": [2, 4],
+      "image": "/pizza-app/images/image-13.jpg",
+      "ingredients": [
+        {
+          "id": 24,
+          "removable": true
+        },
+        {
+          "id": 4,
+          "removable": false
+        },
+        {
+          "id": 10,
+          "removable": true
+        },
+        {
+          "id": 26,
+          "removable": true
+        },
+        {
+          "id": 17,
+          "removable": true
+        },
+        {
+          "id": 12,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 6,
+          "removable": true
+        },
+        {
+          "id": 7,
+          "removable": true
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Don Bacon",
+      "size": {
+        "small": {
+          "price": "12.90",
+          "name": "Small",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "18.90",
+          "name": "Medium",
+          "diameter": "30",
+          "weight": "690"
+        },
+        "big": {
+          "price": "22.90",
+          "name": "Big",
+          "diameter": "35",
+          "weight": "1020"
+        }
+      },
+      "dough": {
+        "type1": "Traditional",
+        "type2": "Thin"
+      },
+      "extra": [3, 13, 18],
+      "type": [2],
+      "image": "/pizza-app/images/image-14.jpg",
+      "ingredients": [
+        {
+          "id": 4,
+          "removable": false
+        },
+        {
+          "id": 10,
+          "removable": true
+        },
+        {
+          "id": 26,
+          "removable": true
+        },
+        {
+          "id": 19,
+          "removable": true
+        },
+        {
+          "id": 17,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 18,
+          "removable": true
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Meat",
+      "size": {
+        "small": {
+          "price": "12.90",
+          "name": "Small",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "18.90",
+          "name": "Medium",
+          "diameter": "30",
+          "weight": "690"
+        },
+        "big": {
+          "price": "22.90",
+          "name": "Big",
+          "diameter": "35",
+          "weight": "990"
+        }
+      },
+      "dough": {
+        "type1": "Traditional",
+        "type2": "Thin"
+      },
+      "extra": [13, 7, 18],
+      "type": [2, 3],
+      "image": "/pizza-app/images/image-15.jpg",
+      "ingredients": [
+        {
+          "id": 23,
+          "removable": true
+        },
+        {
+          "id": 4,
+          "removable": false
+        },
+        {
+          "id": 10,
+          "removable": true
+        },
+        {
+          "id": 19,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 6,
+          "removable": true
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Chicken BBQ",
+      "size": {
+        "small": {
+          "price": "12.90",
+          "name": "Small",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "18.90",
+          "name": "Medium",
+          "diameter": "30",
+          "weight": "640"
+        },
+        "big": {
+          "price": "22.90",
+          "name": "Big",
+          "diameter": "35",
+          "weight": "960"
+        }
+      },
+      "dough": {
+        "type1": "Traditional",
+        "type2": "Thin"
+      },
+      "extra": [3, 13, 7],
+      "type": [4],
+      "image": "/pizza-app/images/image-16.jpg",
+      "ingredients": [
+        {
+          "id": 27,
+          "removable": false
+        },
+        {
+          "id": 4,
+          "removable": false
+        },
+        {
+          "id": 10,
+          "removable": true
+        },
+        {
+          "id": 17,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 18,
+          "removable": true
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Cheesy Chicken",
+      "size": {
+        "small": {
+          "price": "12.90",
+          "name": "Small",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "18.90",
+          "name": "Medium",
+          "diameter": "30",
+          "weight": "670"
+        },
+        "big": {
+          "price": "22.90",
+          "name": "Big",
+          "diameter": "35",
+          "weight": "950"
+        }
+      },
+      "dough": {
+        "type1": "Traditional",
+        "type2": "Thin"
+      },
+      "extra": [25, 10, 7],
+      "type": [4],
+      "image": "/pizza-app/images/image-17.jpg",
+      "ingredients": [
+        {
+          "id": 33,
+          "removable": false
+        },
+        {
+          "id": 10,
+          "removable": true
+        },
+        {
+          "id": 4,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Chicken ranch",
+      "size": {
+        "small": {
+          "price": "12.90",
+          "name": "Small",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "18.90",
+          "name": "Medium",
+          "diameter": "30",
+          "weight": "630"
+        },
+        "big": {
+          "price": "22.90",
+          "name": "Big",
+          "diameter": "35",
+          "weight": "970"
+        }
+      },
+      "dough": {
+        "type1": "Traditional",
+        "type2": "Thin"
+      },
+      "extra": [3, 13, 7],
+      "type": [4],
+      "image": "/pizza-app/images/image-18.jpg",
+      "ingredients": [
+        {
+          "id": 10,
+          "removable": true
+        },
+        {
+          "id": 5,
+          "removable": true
+        },
+        {
+          "id": 1,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 28,
+          "removable": false
+        },
+        {
+          "id": 6,
+          "removable": true
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Italian",
+      "size": {
+        "small": {
+          "price": "8.90",
+          "name": "Small",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "14.90",
+          "name": "Medium",
+          "diameter": "30",
+          "weight": "690"
+        },
+        "big": {
+          "price": "19.90",
+          "name": "Big",
+          "diameter": "35",
+          "weight": "960"
+        }
+      },
+      "dough": {
+        "type1": "Traditional",
+        "type2": "Thin"
+      },
+      "extra": [13, 7, 18],
+      "type": [2],
+      "image": "/pizza-app/images/image-19.jpg",
+      "ingredients": [
+        {
+          "id": 29,
+          "removable": true
+        },
+        {
+          "id": 4,
+          "removable": false
+        },
+        {
+          "id": 19,
+          "removable": true
+        },
+        {
+          "id": 26,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 7,
+          "removable": true
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Mexican",
+      "size": {
+        "small": {
+          "price": "12.90",
+          "name": "Small",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "18.90",
+          "name": "Medium",
+          "diameter": "30",
+          "weight": "650"
+        },
+        "big": {
+          "price": "22.90",
+          "name": "Big",
+          "diameter": "35",
+          "weight": "980"
+        }
+      },
+      "dough": {
+        "type1": "Traditional",
+        "type2": "Thin"
+      },
+      "extra": [3, 13, 7],
+      "type": [3, 4],
+      "image": "/pizza-app/images/image-20.jpg",
+      "ingredients": [
+        {
+          "id": 13,
+          "removable": true
+        },
+        {
+          "id": 30,
+          "removable": false
+        },
+        {
+          "id": 4,
+          "removable": false
+        },
+        {
+          "id": 10,
+          "removable": true
+        },
+        {
+          "id": 5,
+          "removable": true
+        },
+        {
+          "id": 12,
+          "removable": true
+        },
+        {
+          "id": 17,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Vegetables and Mushrooms",
+      "size": {
+        "small": {
+          "price": "8.90",
+          "name": "Small",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "14.90",
+          "name": "Medium",
+          "diameter": "30",
+          "weight": "620"
+        },
+        "big": {
+          "price": "19.90",
+          "name": "Big",
+          "diameter": "35",
+          "weight": "910"
+        }
+      },
+      "dough": {
+        "type1": "Traditional",
+        "type2": "Thin"
+      },
+      "extra": [3, 13, 7],
+      "type": [1],
+      "image": "/pizza-app/images/image-21.jpg",
+      "ingredients": [
+        {
+          "id": 29,
+          "removable": true
+        },
+        {
+          "id": 4,
+          "removable": false
+        },
+        {
+          "id": 5,
+          "removable": true
+        },
+        {
+          "id": 31,
+          "removable": true
+        },
+        {
+          "id": 26,
+          "removable": true
+        },
+        {
+          "id": 17,
+          "removable": true
+        },
+        {
+          "id": 12,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 7,
+          "removable": true
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Pepperoni",
+      "size": {
+        "small": {
+          "price": "8.90",
+          "name": "Small",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "14.90",
+          "name": "Medium",
+          "diameter": "30",
+          "weight": "680"
+        },
+        "big": {
+          "price": "19.90",
+          "name": "Big",
+          "diameter": "35",
+          "weight": "950"
+        }
+      },
+      "dough": {
+        "type1": "Traditional",
+        "type2": "Thin"
+      },
+      "extra": [13, 7, 18],
+      "type": [2],
+      "image": "/pizza-app/images/image-22.jpg",
+      "ingredients": [
+        {
+          "id": 4,
+          "removable": false
+        },
+        {
+          "id": 19,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Four seasons",
+      "size": {
+        "small": {
+          "price": "12.90",
+          "name": "Small",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "18.90",
+          "name": "Medium",
+          "diameter": "30",
+          "weight": "680"
+        },
+        "big": {
+          "price": "22.90",
+          "name": "Big",
+          "diameter": "35",
+          "weight": "990"
+        }
+      },
+      "dough": {
+        "type1": "Traditional",
+        "type2": "Thin"
+      },
+      "extra": [3, 13, 18],
+      "type": [2],
+      "image": "/pizza-app/images/image-23.jpg",
+      "ingredients": [
+        {
+          "id": 29,
+          "removable": true
+        },
+        {
+          "id": 4,
+          "removable": false
+        },
+        {
+          "id": 5,
+          "removable": true
+        },
+        {
+          "id": 19,
+          "removable": true
+        },
+        {
+          "id": 31,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 6,
+          "removable": true
+        },
+        {
+          "id": 7,
+          "removable": true
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Four Cheese",
+      "size": {
+        "small": {
+          "price": "12.90",
+          "name": "Small",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "18.90",
+          "name": "Medium",
+          "diameter": "30",
+          "weight": "680"
+        },
+        "big": {
+          "price": "22.90",
+          "name": "Big",
+          "diameter": "35",
+          "weight": "960"
+        }
+      },
+      "dough": {
+        "type1": "Traditional",
+        "type2": "Thin"
+      },
+      "extra": [3, 10, 6],
+      "type": [1],
+      "image": "/pizza-app/images/image-24.jpg",
+      "ingredients": [
+        {
+          "id": 8,
+          "removable": false
+        },
+        {
+          "id": 25,
+          "removable": true
+        },
+        {
+          "id": 22,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Margherita",
+      "size": {
+        "small": {
+          "price": "6.90",
+          "name": "Small",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "12.90",
+          "name": "Medium",
+          "diameter": "30",
+          "weight": "610"
+        },
+        "big": {
+          "price": "17.90",
+          "name": "Big",
+          "diameter": "35",
+          "weight": "890"
+        }
+      },
+      "dough": {
+        "type1": "Traditional",
+        "type2": "Thin"
+      },
+      "extra": [13, 7, 18],
+      "type": [1],
+      "image": "/pizza-app/images/image-25.jpg",
+      "ingredients": [
+        {
+          "id": 29,
+          "removable": true
+        },
+        {
+          "id": 4,
+          "removable": false
+        },
+        {
+          "id": 5,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Spanish sausages chorizo",
+      "size": {
+        "small": {
+          "price": "6.90",
+          "name": "Small",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "12.90",
+          "name": "Medium",
+          "diameter": "30",
+          "weight": "620"
+        },
+        "big": {
+          "price": "17.90",
+          "name": "Big",
+          "diameter": "35",
+          "weight": "960"
+        }
+      },
+      "dough": {
+        "type1": "Traditional",
+        "type2": "Thin"
+      },
+      "extra": [3, 13, 7],
+      "type": [2],
+      "image": "/pizza-app/images/image-26.jpeg",
+      "ingredients": [
+        {
+          "id": 5,
+          "removable": true
+        },
+        {
+          "id": 23,
+          "removable": true
+        },
+        {
+          "id": 3,
+          "removable": false
+        },
+        {
+          "id": 32,
+          "removable": false
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Cheese",
+      "size": {
+        "small": {
+          "price": "6.90",
+          "name": "Small",
+          "diameter": "25",
+          "weight": "440"
+        },
+        "medium": {
+          "price": "12.90",
+          "name": "Medium",
+          "diameter": "30",
+          "weight": "610"
+        },
+        "big": {
+          "price": "16.90",
+          "name": "Big",
+          "diameter": "35",
+          "weight": "910"
+        }
+      },
+      "dough": {
+        "type1": "Traditional",
+        "type2": "Thin"
+      },
+      "extra": [13, 7, 18],
+      "type": [1],
+      "image": "/pizza-app/images/image-27.jpg",
+      "ingredients": [
+        {
+          "id": 4,
+          "removable": false
+        },
+        {
+          "id": 3,
+          "removable": false
+        }
+      ]
+    }
+  ]
+}

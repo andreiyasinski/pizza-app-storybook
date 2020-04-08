@@ -1,0 +1,402 @@
+{
+  "ru": [
+    {
+      "id": 1,
+      "name": "чеснок",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 2,
+      "name": "пепперони",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 3,
+      "name": "моцарелла",
+      "image": "/pizza-app/images/extra-3.png",
+      "price": "2.40"
+    },
+    {
+      "id": 4,
+      "name": "томатный соус",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 5,
+      "name": "томаты",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 6,
+      "name": "ветчина",
+      "image": "/pizza-app/images/extra-6.png",
+      "price": "2.40"
+    },
+    {
+      "id": 7,
+      "name": "шампиньоны",
+      "image": "/pizza-app/images/extra-7.png",
+      "price": "1.80"
+    },
+    {
+      "id": 8,
+      "name": "сливочный соус",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 9,
+      "name": "ананасы",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 10,
+      "name": "цыпленок",
+      "image": "/pizza-app/images/extra-10.png",
+      "price": "2.40"
+    },
+    {
+      "id": 11,
+      "name": "кисло-сладкий соус",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 12,
+      "name": "сладкий перец",
+      "image": "/pizza-app/images/extra-12.png",
+      "price": "1.80"
+    },
+    {
+      "id": 13,
+      "name": "халапеньо",
+      "image": "/pizza-app/images/extra-13.png",
+      "price": "1.80"
+    },
+    {
+      "id": 14,
+      "name": "соус бургер",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 15,
+      "name": "мясной соус болоньезе",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 16,
+      "name": "соленые огурчики",
+      "image": "/pizza-app/images/extra-16.png",
+      "price": "1.80"
+    },
+    {
+      "id": 17,
+      "name": "красный лук",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 18,
+      "name": "бекон",
+      "image": "/pizza-app/images/extra-18.png",
+      "price": "2.80"
+    },
+    {
+      "id": 19,
+      "name": "пикантная пепперони",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 20,
+      "name": "черный кунжут",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 21,
+      "name": "креветки",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 22,
+      "name": "сыр блю чиз",
+      "image": "/pizza-app/images/extra-22.png",
+      "price": "2.40"
+    },
+    {
+      "id": 23,
+      "name": "острая чоризо",
+      "image": "/pizza-app/images/extra-23.png",
+      "price": "2.40"
+    },
+    {
+      "id": 24,
+      "name": "фарш из говядины",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 25,
+      "name": "смесь сыров чеддар и пармезан",
+      "image": "/pizza-app/images/extra-25.png",
+      "price": "2.40"
+    },
+    {
+      "id": 26,
+      "name": "маслины",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 27,
+      "name": "соус барбекю",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 28,
+      "name": "соус ранч",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 29,
+      "name": "итальянские травы",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 30,
+      "name": "соус сальса",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 31,
+      "name": "кубики брынзы",
+      "image": "/pizza-app/images/extra-31.png",
+      "price": "2.40"
+    },
+    {
+      "id": 32,
+      "name": "соус чипотле",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 33,
+      "name": "сырный соус",
+      "image": "",
+      "price": ""
+    }
+  ],
+  "en": [
+    {
+      "id": 1,
+      "name": "garlic",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 2,
+      "name": "pepperoni",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 3,
+      "name": "mozzarella",
+      "image": "/pizza-app/images/extra-3.png",
+      "price": "2.40"
+    },
+    {
+      "id": 4,
+      "name": "tomato sauce",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 5,
+      "name": "tomatoes",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 6,
+      "name": "ham",
+      "image": "/pizza-app/images/extra-6.png",
+      "price": "2.40"
+    },
+    {
+      "id": 7,
+      "name": "portobello mushrooms",
+      "image": "/pizza-app/images/extra-7.png",
+      "price": "1.80"
+    },
+    {
+      "id": 8,
+      "name": "creamy sauce",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 9,
+      "name": "pineapples",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 10,
+      "name": "chicken",
+      "image": "/pizza-app/images/extra-10.png",
+      "price": "2.40"
+    },
+    {
+      "id": 11,
+      "name": "sweet and sour sauce",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 12,
+      "name": "sweet pepper",
+      "image": "/pizza-app/images/extra-12.png",
+      "price": "1.80"
+    },
+    {
+      "id": 13,
+      "name": "jalapeno pepper",
+      "image": "/pizza-app/images/extra-13.png",
+      "price": "1.80"
+    },
+    {
+      "id": 14,
+      "name": "sauce burger",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 15,
+      "name": "bolognes sauce",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 16,
+      "name": "dill pickles",
+      "image": "/pizza-app/images/extra-16.png",
+      "price": "1.80"
+    },
+    {
+      "id": 17,
+      "name": "red onion",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 18,
+      "name": "bacon",
+      "image": "/pizza-app/images/extra-18.png",
+      "price": "2.80"
+    },
+    {
+      "id": 19,
+      "name": "spicy pepperoni",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 20,
+      "name": "sesame",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 21,
+      "name": "shrimps",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 22,
+      "name": "blue cheese",
+      "image": "/pizza-app/images/extra-22.png",
+      "price": "2.40"
+    },
+    {
+      "id": 23,
+      "name": "spicy chorizo",
+      "image": "/pizza-app/images/extra-23.png",
+      "price": "2.40"
+    },
+    {
+      "id": 24,
+      "name": "ground beef",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 25,
+      "name": "cheddar and parmesan cheeses",
+      "image": "/pizza-app/images/extra-25.png",
+      "price": "2.40"
+    },
+    {
+      "id": 26,
+      "name": "black olives",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 27,
+      "name": "barbecue sauce",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 28,
+      "name": "ranch sauce",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 29,
+      "name": "italian seasoning",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 30,
+      "name": "salsa sauce",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 31,
+      "name": "feta cheese",
+      "image": "/pizza-app/images/extra-31.png",
+      "price": "2.40"
+    },
+    {
+      "id": 32,
+      "name": "chipotle sauce",
+      "image": "",
+      "price": ""
+    },
+    {
+      "id": 33,
+      "name": "cheese sauce",
+      "image": "",
+      "price": ""
+    }
+  ]
+}

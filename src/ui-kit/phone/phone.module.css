@@ -1,0 +1,38 @@
+.container {
+  display: flex;
+  align-items: center;
+  line-height: 35px;
+  font-weight: 700;
+  color: #817E71;
+  text-decoration: none;
+  transition: color .3s;
+}
+
+.phoneIconWrapper {
+  width: 46px;
+  height: 46px;
+  background: #f6f5f0;
+  border-radius: 23px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+  transition: all 0.3s;
+}
+
+@media (min-width: 1024px) {
+  .container:hover {
+    color: #1E1C22;
+  }
+  
+  .container:hover .phoneIconWrapper {
+    background: #817E71;
+    color: #fff;
+  }
+}
+
+@media (max-width: 480px) {
+  .phoneIconWrapper {
+    display: none;
+  }
+}

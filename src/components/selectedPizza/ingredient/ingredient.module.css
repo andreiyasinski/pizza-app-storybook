@@ -1,0 +1,33 @@
+.listItem::after {
+  content: ",\00A0";
+}
+
+.listItem:last-child::after {
+  content: "";
+}
+
+.listItem:first-child::first-letter {
+  text-transform: uppercase;
+}
+
+.selected {
+  text-decoration: line-through;
+}
+
+.removable {
+  cursor: pointer;
+}
+
+.notSelected {
+  border-bottom: 1px dotted #878686;
+}
+
+.checkbox {
+  display: none;
+}
+
+.cancelIcon {
+  margin-left: 3px;
+  vertical-align: middle;
+  cursor: pointer;
+}
