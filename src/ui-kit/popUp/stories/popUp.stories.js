@@ -6,7 +6,7 @@ export default {
   component: PopUp,
 };
 
-export const Success = () => (
+export const WithText = () => (
   <PopUp>
     <div style={{padding: 30, textAlign: "center"}}>
       <h2>Pizza is already coming to you!</h2>
