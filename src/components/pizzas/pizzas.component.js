@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useSelector } from 'react-redux';
 import styles from './pizzas.module.css';
 import Pizza from '../pizza/pizza.component';
-import SelectedPizza from '../selectedPizza/selectedPizza.component';
+import PopUpPizza from '../popUpPizza/popUpPizza.component';
 import Filter from '../filter/filter.component';
 
 const Pizzas = () => {
@@ -13,7 +13,7 @@ const Pizzas = () => {
   const pizzas = useSelector(state => state.pizzas.items[language]);
   const ingredients = useSelector(state => state.ingredients.items[language]);
   const types = useSelector(state => state.types.items[language]);
-  const isOpen = useSelector(state => state.selectedPizza.isOpen);
+  const isOpen = useSelector(state => state.popUp.isOpen);
 
   useEffect(() => {
     setPizzasList(pizzas)
@@ -49,7 +49,7 @@ const Pizzas = () => {
           ))
         }
       </ul>
-      { isOpen &&  <SelectedPizza /> }
+      { isOpen &&  <PopUpPizza /> }
     </>
   );
 };

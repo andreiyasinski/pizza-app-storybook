@@ -1,9 +1,9 @@
 import React, { useEffect } from 'react';
 import styles from './basketButton.module.css';
 import { useSelector, useDispatch } from 'react-redux';
-import cn from 'classnames';
 import { changeNewPizzaMessageState } from '../../actions';
 import { basketButtonText as text } from '../../text/text';
+import Popover from '../popover/popover.component';
 
 const BasketButton = ({ amount }) => {
   const isNewAdded = useSelector(state => state.newPizzaMessage.isNewAdded);
@@ -25,11 +25,9 @@ const BasketButton = ({ amount }) => {
         </path>
       </svg>
       <p className={styles.amount}>{amount}</p>
-      <div className={cn(styles.message, {
-        [styles.messageActive]: isNewAdded
-      })}>
-        {text[language].added}
-      </div>
+      {
+        isNewAdded && <Popover>{text[language].added}</Popover>
+      }
     </button>
   );
 };

@@ -2,7 +2,7 @@ import React, { useState, useEffect, useCallback } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import styles from './pizza.module.css';
 import Button from '../../ui-kit/button/button.component';
-import { changeSelectedPizzaState } from '../../actions';
+import { changeSelectedPizza, changePopUpState } from '../../actions';
 import { pizzaText as text } from '../../text/text';
 
 const Pizza = ({ pizza, ingredients }) => {
@@ -30,12 +30,13 @@ const Pizza = ({ pizza, ingredients }) => {
   
   const openPopUp = () => {
     dispatch(
-      changeSelectedPizzaState(true, {
+      changeSelectedPizza({
         ...pizza,
         ingredients: pizzaIngredientsData,
         extra: pizzaExtraData
       })
     );
+    dispatch(changePopUpState(true))
   }
 
   return (

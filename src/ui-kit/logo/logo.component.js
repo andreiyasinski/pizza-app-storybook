@@ -6,12 +6,14 @@ import logo from '../../assets/logo.png';
 
 
 const Logo = ({ className }) => {
+  const imageClassName = className || styles.imageClassName;
+
   return (
     <Link
       to="/"
       className={styles.container}
     >
-      <img className={cn(styles.image, className)} src={logo} alt="logo" />
+      <img className={cn(styles.image, imageClassName)} src={logo} alt="logo" />
       <p className={styles.text}>PIZZA</p>
     </Link>
   );

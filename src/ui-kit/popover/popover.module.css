@@ -1,0 +1,24 @@
+.message {
+  position: absolute;
+  bottom: 0;
+  transform: translateY(calc(100% + 10px));
+  box-shadow: 0 2px 12px 0 rgba(127, 140, 170, 0.4);
+  background: #fff;
+  color: #000;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 12px;
+  transition: opacity 0.5s;
+  min-width: 80px;
+  text-align: center;
+}
+
+.message::before {
+  content: '';
+  position: absolute;
+  top: -20px;
+  left: calc(50% - 10px);
+  border: 10px solid transparent;
+  border-bottom: 10px solid #fff;
+}
+

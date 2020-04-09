@@ -28,7 +28,7 @@ const Header = () => {
   return (
     <div className={styles.container}>
       <div className={styles.header}>
-        <Logo className={styles.logo} />        
+        <Logo className={styles.logo} />
         <div
           className={cn(styles.navWrapper, {
             [styles.navWrapperActive] : isMenuOpen

@@ -83,12 +83,20 @@ export const toggleMenu = (isMenuOpen) => ({
   },
 });
 
-export const CHANGE_SELECTED_PIZZA_STATE = 'CHANGE_SELECTED_PIZZA_STATE';
+export const CHANGE_POPUP_STATE = 'CHANGE_POPUP_STATE';
 
-export const changeSelectedPizzaState = (isOpen, data) => ({
-  type: CHANGE_SELECTED_PIZZA_STATE,
+export const changePopUpState = (isOpen) => ({
+  type: CHANGE_POPUP_STATE,
   payload: {
-    isOpen,
+    isOpen
+  },
+});
+
+export const CHANGE_SELECTED_PIZZA = 'CHANGE_SELECTED_PIZZA';
+
+export const changeSelectedPizza = (data) => ({
+  type: CHANGE_SELECTED_PIZZA,
+  payload: {
     data
   },
 });

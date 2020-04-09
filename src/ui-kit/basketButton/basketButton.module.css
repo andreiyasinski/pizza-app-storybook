@@ -39,33 +39,6 @@
   margin: 0 0 0 10px;
 }
 
-.message {
-  display: none;
-  position: absolute;
-  bottom: calc(-100% - 20px);
-  box-shadow: 0 2px 12px 0 rgba(127, 140, 170, 0.4);
-  background: #fff;
-  color: #000;
-  padding: 10px;
-  border-radius: 5px;
-  font-size: 12px;
-  transition: opacity 0.5s;
-  min-width: 80px;
-}
-
-.message::before {
-  content: '';
-  position: absolute;
-  top: -20px;
-  left: calc(50% - 10px);
-  border: 10px solid transparent;
-  border-bottom: 10px solid #fff;
-}
-
-.messageActive {
-  display: block;
-}
-
 @media (min-width: 1024px) {
   .container:hover:before {
     opacity: 1;

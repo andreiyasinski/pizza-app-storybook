@@ -1,0 +1,28 @@
+.count {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  height: 39px;
+  width: 30px;
+  background-color: transparent;
+  border: 1px solid #ff4756;
+  color: #ff4756;
+  border-radius: 10px;
+  outline: none;
+  font-size: 20px;
+  cursor: pointer;
+  transition: all .3s;
+}
+
+@media (min-width: 1024px) {
+  .count:hover, .count:focus {
+    background-color: #ff4756;
+    color: #fff;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .count {
+    height: 35px;
+  }
+}

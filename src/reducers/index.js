@@ -8,6 +8,7 @@ import basket from './basket.reducer';
 import language from './language.reducer';
 import orders from './orders.reducer';
 import newPizzaMessage from './newPizzaMessage.reducer';
+import popUp from './popUp.reducer';
 
 const mainReducer = combineReducers({
   pizzas,
@@ -18,7 +19,8 @@ const mainReducer = combineReducers({
   basket,
   language,
   orders,
-  newPizzaMessage
+  newPizzaMessage,
+  popUp
 })
 
 export default mainReducer;

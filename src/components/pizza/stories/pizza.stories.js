@@ -1,15 +1,10 @@
 import React from 'react';
-import { Provider } from 'react-redux';
-import { createStore } from 'redux';
-import mainReducer from '../../../reducers';
 import Pizza from '../pizza.component';
-
-const store = createStore(mainReducer);
 
 export default {
   title: 'Pizza',
   component: Pizza,
-  decorators: [storyFn => <Provider store={store}>{storyFn()}</Provider>]
+  decorators: [storyFn => <ul>{storyFn()}</ul>]
 };
 
 export const Original = () => (
@@ -21,30 +16,30 @@ export const Original = () => (
 
 const pizza = {
   "id": 1,
-  "name": "Аррива",
+  "name": "Ariva",
   "size": {
     "small": {
       "price": "8.90",
-      "name": "Маленькая",
+      "name": "Small",
       "diameter": "25",
       "weight": "440"
     },
     "medium": {
       "price": "14.90",
-      "name": "Средняя",
+      "name": "Medium",
       "diameter": "30",
       "weight": "630"
     },
     "big": {
       "price": "19.90",
-      "name": "Большая",
+      "name": "Big",
       "diameter": "35",
       "weight": "950"
     }
   },
   "dough": {
-    "type1": "Традиционное",
-    "type2": "Тонкое"
+    "type1": "Traditional",
+    "type2": "Thin"
   },
   "extra": [7, 3, 13],
   "type": [4],
